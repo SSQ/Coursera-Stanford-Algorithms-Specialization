@@ -46,6 +46,17 @@
   - 11: Dijkstra's Shortest-Path Algorithm
     - [Dijkstra’s Algorithm](https://github.com/SSQ/Coursera-Stanford-Graph-Search-Shortest-Paths-and-Data-Structures/blob/master/Lecture%20Slides/11.1-slides_algo-dijkstra-basics_typed.pdf), [Correctness](https://github.com/SSQ/Coursera-Stanford-Graph-Search-Shortest-Paths-and-Data-Structures/blob/master/Lecture%20Slides/11.2-slides_algo-dijkstra-correctness_typed.pdf), [Fast Implementation with Heap](https://github.com/SSQ/Coursera-Stanford-Graph-Search-Shortest-Paths-and-Data-Structures/blob/master/Lecture%20Slides/11.3-slides_algo-dijkstra-runtime_typed.pdf)
     - [x] [Implementation](https://github.com/SSQ/Coursera-Stanford-Graph-Search-Shortest-Paths-and-Data-Structures/tree/master/Programming%20Assignment%20%202) by Python
+- Week 3:
+  - 12: Heaps
+    - [Heap: Supported Operations; Application: Sorting; Application: Event Manager; Application: Median Maintenence; Application: Speeding Up Dijkstra](https://github.com/SSQ/Coursera-Stanford-Graph-Search-Shortest-Paths-and-Data-Structures/blob/master/Lecture%20Slides/12.2-slides_algo-ds-heaps-basics_typed.pdf)
+    - [x] [Implementation Heap application: Median Maintenence](https://github.com/SSQ/Coursera-Stanford-Graph-Search-Shortest-Paths-and-Data-Structures/tree/master/Programming%20Assignment%203) by Python
+    - [Array Implementation, Insert and Bubble‐Up, Extract‐Min and Bubble‐Down](https://github.com/SSQ/Coursera-Stanford-Graph-Search-Shortest-Paths-and-Data-Structures/blob/master/Lecture%20Slides/12.3-slides_algo-ds-heaps-guts_typed.pdf)
+  - 13: Balanced Binary Search Trees
+    - [Balanced Search Trees: Supported Operations](https://github.com/SSQ/Coursera-Stanford-Graph-Search-Shortest-Paths-and-Data-Structures/blob/master/Lecture%20Slides/13.1-slides_algo-ds-trees-ops-typed.pdf)
+    - Binary Search Tree: [Searching and Inserting; Min, Max, Pred, And Succ; In-Order Traversal; Deletion; Select and Rank](https://github.com/SSQ/Coursera-Stanford-Graph-Search-Shortest-Paths-and-Data-Structures/blob/master/Lecture%20Slides/13.2-slides_algo-ds-trees-basics-typed.pdf)
+    - Balanced Search Trees: [Red-Black](https://github.com/SSQ/Coursera-Stanford-Graph-Search-Shortest-Paths-and-Data-Structures/blob/master/Lecture%20Slides/13.3-slides_algo-ds-trees-redblack-typed.pdf)
+    - (Optional)[Rotations: left rotation; right rotation](https://github.com/SSQ/Coursera-Stanford-Graph-Search-Shortest-Paths-and-Data-Structures/blob/master/Lecture%20Slides/13.4-slides_algo-ds-trees-rotations-annotated.pdf)
+    - (Optional)[Insertion In A Red-Black Tree](https://github.com/SSQ/Coursera-Stanford-Graph-Search-Shortest-Paths-and-Data-Structures/blob/master/Lecture%20Slides/13.5-slides_algo-ds-trees-rbinsert-annotated.pdf)
 ## [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy)
 - Week 1: 
   - [Greedy algorithm](https://github.com/SSQ/Coursera-Stanford-Greedy-Algorithms-Minimum-Spanning-Trees-and-Dynamic-Programming/blob/master/Lecture%20Slides/19.2-algo2-greedy-sched2-typed.pdf);
