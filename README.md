@@ -57,6 +57,15 @@
     - Balanced Search Trees: [Red-Black](https://github.com/SSQ/Coursera-Stanford-Graph-Search-Shortest-Paths-and-Data-Structures/blob/master/Lecture%20Slides/13.3-slides_algo-ds-trees-redblack-typed.pdf)
     - (Optional)[Rotations: left rotation; right rotation](https://github.com/SSQ/Coursera-Stanford-Graph-Search-Shortest-Paths-and-Data-Structures/blob/master/Lecture%20Slides/13.4-slides_algo-ds-trees-rotations-annotated.pdf)
     - (Optional)[Insertion In A Red-Black Tree](https://github.com/SSQ/Coursera-Stanford-Graph-Search-Shortest-Paths-and-Data-Structures/blob/master/Lecture%20Slides/13.5-slides_algo-ds-trees-rbinsert-annotated.pdf)
+- Week 4:
+  - 14: Hashing
+    - [Hash Table: Supported Operations; Application: De‐Duplication; Application: The 2‐SUM Problem](https://github.com/SSQ/Coursera-Stanford-Graph-Search-Shortest-Paths-and-Data-Structures/blob/master/Lecture%20Slides/14.1-slides_algo-ds-hash-basics_typed.pdf)
+    - [x] [Implementation](https://github.com/SSQ/Coursera-Stanford-Graph-Search-Shortest-Paths-and-Data-Structures/tree/master/Programming%20Assignment%204) by Python
+    - [Resolving Collisions; Good Hash Function: Bad Hash Function](https://github.com/SSQ/Coursera-Stanford-Graph-Search-Shortest-Paths-and-Data-Structures/blob/master/Lecture%20Slides/14.2-slides_algo-ds-hash-guts_typed.pdf)
+  - 15: Universal Hash Functions:
+    - [Motivation](https://github.com/SSQ/Coursera-Stanford-Graph-Search-Shortest-Paths-and-Data-Structures/blob/master/Lecture%20Slides/15.1-slides_algo-ds-hash-universal1-typed.pdf)
+  - 16: Bloom Filters
+    - [Bloom Filters](https://github.com/SSQ/Coursera-Stanford-Graph-Search-Shortest-Paths-and-Data-Structures/blob/master/Lecture%20Slides/16.1-slides_algo-ds-bloom-typed.pdf)
 ## [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy)
 - Week 1: 
   - [Greedy algorithm](https://github.com/SSQ/Coursera-Stanford-Greedy-Algorithms-Minimum-Spanning-Trees-and-Dynamic-Programming/blob/master/Lecture%20Slides/19.2-algo2-greedy-sched2-typed.pdf);
