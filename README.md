@@ -1,5 +1,15 @@
-# [Algorithms Specialization](https://www.coursera.org/specializations/algorithms)
-## [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer)
+# Algorithms Specialization
+
+Course can be found in [Coursera](https://www.coursera.org/specializations/algorithms)
+
+Notes can be found in my [Blog](https://ssq.github.io/2017/07/17/Coursera%20S%20Algorithms%20Specialization%20Notebook/)
+
+## Divide and Conquer, Sorting and Searching, and Randomized Algorithms
+
+Course can be found in [Coursera](https://www.coursera.org/learn/algorithms-divide-conquer)
+
+More details about this course can be found in my [Github](https://github.com/SSQ/Coursera-Stanford-Divide-and-Conquer-Sorting-and-Searching-and-Randomized-Algorithms)
+
 - Week 1:
   - 1: Divide and Conquer:
     - [Integer Multiplication](https://github.com/SSQ/Coursera-Stanford-Divide-and-Conquer-Sorting-and-Searching-and-Randomized-Algorithms/blob/master/Lecture%20Slides/1.2-algo1-intro2_typed.pdf);
@@ -33,7 +43,12 @@
   - 9: Graphs and The Minimum Cut
     - [Random Contraction Algorithm](https://github.com/SSQ/Coursera-Stanford-Divide-and-Conquer-Sorting-and-Searching-and-Randomized-Algorithms/blob/master/Lecture%20Slides/9.3-slides_algo-karger-algorithm_typed.pdf)
     - [x] [Implementation](https://github.com/SSQ/Coursera-Stanford-Divide-and-Conquer-Sorting-and-Searching-and-Randomized-Algorithms/tree/master/Programming%20Assignment%204) by Python
-## [Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures)
+## Graph Search, Shortest Paths, and Data Structures
+
+Course can be found in [Coursera](https://www.coursera.org/learn/algorithms-graphs-data-structures)
+
+More details about this course can be found in my [Github](https://github.com/SSQ/Coursera-Stanford-Graph-Search-Shortest-Paths-and-Data-Structures)
+
 - Week 1:
   - 10: Graph Search and Connectivity
     - [Generic Graph Search](https://github.com/SSQ/Coursera-Stanford-Graph-Search-Shortest-Paths-and-Data-Structures/blob/master/Lecture%20Slides/10.1-slides_algo-graphs-search_typed.pdf)
@@ -66,7 +81,12 @@
     - [Motivation](https://github.com/SSQ/Coursera-Stanford-Graph-Search-Shortest-Paths-and-Data-Structures/blob/master/Lecture%20Slides/15.1-slides_algo-ds-hash-universal1-typed.pdf)
   - 16: Bloom Filters
     - [Bloom Filters](https://github.com/SSQ/Coursera-Stanford-Graph-Search-Shortest-Paths-and-Data-Structures/blob/master/Lecture%20Slides/16.1-slides_algo-ds-bloom-typed.pdf)
-## [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy)
+## Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming
+
+Course can be found in [Coursera](https://www.coursera.org/learn/algorithms-greedy)
+
+More details about this course can be found in my [Github](https://github.com/SSQ/Coursera-Stanford-Greedy-Algorithms-Minimum-Spanning-Trees-and-Dynamic-Programming)
+
 - Week 1: 
   - [Greedy algorithm](https://github.com/SSQ/Coursera-Stanford-Greedy-Algorithms-Minimum-Spanning-Trees-and-Dynamic-Programming/blob/master/Lecture%20Slides/19.2-algo2-greedy-sched2-typed.pdf);
   - [Prim's Minimum Spanning Tree](https://github.com/SSQ/Coursera-Stanford-Greedy-Algorithms-Minimum-Spanning-Trees-and-Dynamic-Programming/blob/master/Lecture%20Slides/20.2-algo2-greedy-mst2-typed.pdf);
