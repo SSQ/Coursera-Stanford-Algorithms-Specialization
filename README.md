@@ -2,13 +2,13 @@
 
 Course can be found in [Coursera](https://www.coursera.org/specializations/algorithms)
 
-Notes can be found in my [Blog](https://ssq.github.io/2017/07/17/Coursera%20S%20Algorithms%20Specialization%20Notebook/)
+Quiz answers and notes can be found in my blog [SSQ](https://ssq.github.io/2017/07/17/Coursera%20S%20Algorithms%20Specialization%20Notebook/)
 
 ## 1. Divide and Conquer, Sorting and Searching, and Randomized Algorithms
 
 Course can be found in [Coursera](https://www.coursera.org/learn/algorithms-divide-conquer)
 
-More details about this course can be found in my [Github](https://github.com/SSQ/Coursera-Stanford-Divide-and-Conquer-Sorting-and-Searching-and-Randomized-Algorithms)
+Slides and more details about this course can be found in my Github [SSQ](https://github.com/SSQ/Coursera-Stanford-Divide-and-Conquer-Sorting-and-Searching-and-Randomized-Algorithms)
 
 - Week 1:
   - 1: Divide and Conquer:
@@ -48,7 +48,7 @@ More details about this course can be found in my [Github](https://github.com/SS
 
 Course can be found in [Coursera](https://www.coursera.org/learn/algorithms-graphs-data-structures)
 
-More details about this course can be found in my [Github](https://github.com/SSQ/Coursera-Stanford-Graph-Search-Shortest-Paths-and-Data-Structures)
+Slides and more details about this course can be found in my Github [SSQ](https://github.com/SSQ/Coursera-Stanford-Graph-Search-Shortest-Paths-and-Data-Structures)
 
 - Week 1:
   - 10: Graph Search and Connectivity
@@ -87,7 +87,7 @@ More details about this course can be found in my [Github](https://github.com/SS
 
 Course can be found in [Coursera](https://www.coursera.org/learn/algorithms-greedy)
 
-More details about this course can be found in my [Github](https://github.com/SSQ/Coursera-Stanford-Greedy-Algorithms-Minimum-Spanning-Trees-and-Dynamic-Programming)
+Slides and more details about this course can be found in my Github [SSQ](https://github.com/SSQ/Coursera-Stanford-Greedy-Algorithms-Minimum-Spanning-Trees-and-Dynamic-Programming)
 
 - Week 1: 
   - [Greedy algorithm](https://github.com/SSQ/Coursera-Stanford-Greedy-Algorithms-Minimum-Spanning-Trees-and-Dynamic-Programming/blob/master/Lecture%20Slides/19.2-algo2-greedy-sched2-typed.pdf);
